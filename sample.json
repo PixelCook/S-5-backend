@@ -1,0 +1,20 @@
+[
+    {
+    "_id": 1,
+    "name": "John Wayne",
+    "email": "the_duke@example.com",
+    "role": "The Duke"
+},
+{
+    "_id": 2,
+    "name": "Sam Elliot",
+    "email": "the_dude_abides@example.com",
+    "role": "Mustache Champion"
+},
+{
+    "_id": 3,
+    "name": "Clint Eastwood",
+    "email": "fistful_of_spam@example.com",
+    "role": "Man with No Role"
+}
+]
